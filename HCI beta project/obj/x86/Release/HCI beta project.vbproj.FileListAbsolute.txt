@@ -1,0 +1,17 @@
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\bin\Release\HCI beta project.exe
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\bin\Release\HCI beta project.pdb
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\bin\Release\HCI beta project.xml
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI_beta_project.Form1.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI_beta_project.Form2.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI_beta_project.Form3.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI_beta_project.Form4.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI_beta_project.Form5.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI_beta_project.Form6.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI_beta_project.Form7.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI_beta_project.Resources.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI beta project.exe
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI beta project.xml
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Release\HCI beta project.pdb

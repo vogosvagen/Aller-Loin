@@ -1,0 +1,18 @@
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\bin\Debug\HCI beta project.exe
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\bin\Debug\HCI beta project.pdb
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\bin\Debug\HCI beta project.xml
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.Resources.resources
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI beta project.exe
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI beta project.xml
+c:\users\bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI beta project.pdb
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.home.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.main.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.countDesc.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.favorites.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.countHot.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.options.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.COuntRest.resources
+C:\Users\Bassel\documents\visual studio 2010\Projects\HCI beta project\HCI beta project\obj\x86\Debug\HCI_beta_project.register.resources
