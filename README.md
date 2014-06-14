@@ -7,7 +7,7 @@ Key Features:
 	-Sign up, sign in/out system.
 	-Rating System. (Like, Dislike)
 	-Favorite system.
-	-Slide Show (For pictures, can be turned on or off via options menu)
+	-Slide Show (For pictures, can be turned on or off via [options](https://github.com/vogosvagen/Aller-Loin/tree/master/Main/Options))
 
 Minor Features:
 
