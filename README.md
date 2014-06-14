@@ -5,13 +5,11 @@ The aim of “Aller Loin”, is to guide and direct the user to countries that h
 Key Features: 
 
 	-Sign up, sign in/out system.
-
 	-Rating System. (Like, Dislike)
-
 	-Favorite system.
-
 	-Slide Show (For pictures, can be turned on or off)
 
 Minor Features:
+
 	-Search system.
 	-Dynamic form changing.
