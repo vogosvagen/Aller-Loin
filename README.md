@@ -13,6 +13,7 @@ Key Features:
 	-Slide Show (For pictures, can be turned on or off via options)
 	
 [options](https://github.com/vogosvagen/Aller-Loin/tree/master/Main/Options)
+
 Minor Features:
 
 	-Search system.
