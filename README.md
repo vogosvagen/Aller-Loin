@@ -4,7 +4,7 @@ The aim of “Aller Loin”, is to guide and direct the user to countries that h
 
 Key Features: 
 
-	-Sign up, sign in/out system.
+	-Sign up, sign in/out.
 	
 	-Rating System. (Like, Dislike)
 	
